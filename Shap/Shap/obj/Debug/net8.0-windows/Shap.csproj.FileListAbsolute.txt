@@ -1,0 +1,16 @@
+C:\Users\KolosovDA\source\repos\Shap\Shap\bin\Debug\net8.0-windows\Shap.exe
+C:\Users\KolosovDA\source\repos\Shap\Shap\bin\Debug\net8.0-windows\Shap.deps.json
+C:\Users\KolosovDA\source\repos\Shap\Shap\bin\Debug\net8.0-windows\Shap.runtimeconfig.json
+C:\Users\KolosovDA\source\repos\Shap\Shap\bin\Debug\net8.0-windows\Shap.dll
+C:\Users\KolosovDA\source\repos\Shap\Shap\bin\Debug\net8.0-windows\Shap.pdb
+C:\Users\KolosovDA\source\repos\Shap\Shap\obj\Debug\net8.0-windows\Shap.csproj.GenerateResource.cache
+C:\Users\KolosovDA\source\repos\Shap\Shap\obj\Debug\net8.0-windows\Shap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KolosovDA\source\repos\Shap\Shap\obj\Debug\net8.0-windows\Shap.AssemblyInfoInputs.cache
+C:\Users\KolosovDA\source\repos\Shap\Shap\obj\Debug\net8.0-windows\Shap.AssemblyInfo.cs
+C:\Users\KolosovDA\source\repos\Shap\Shap\obj\Debug\net8.0-windows\Shap.csproj.CoreCompileInputs.cache
+C:\Users\KolosovDA\source\repos\Shap\Shap\obj\Debug\net8.0-windows\Shap.dll
+C:\Users\KolosovDA\source\repos\Shap\Shap\obj\Debug\net8.0-windows\refint\Shap.dll
+C:\Users\KolosovDA\source\repos\Shap\Shap\obj\Debug\net8.0-windows\Shap.pdb
+C:\Users\KolosovDA\source\repos\Shap\Shap\obj\Debug\net8.0-windows\Shap.genruntimeconfig.cache
+C:\Users\KolosovDA\source\repos\Shap\Shap\obj\Debug\net8.0-windows\ref\Shap.dll
+C:\Users\KolosovDA\source\repos\Shap\Shap\obj\Debug\net8.0-windows\Shap.MainForm.resources
